@@ -1,12 +1,10 @@
 # RobinHood
 ## Overview and Origin
 
-What is the name of the company?
-
+*What is the name of the company?  
 RobinHood (RH)
 
-When was the company incorporated?
-
+*When was the company incorporated?
 RH was incorporated in April 2013, the founders are Vladimir Tenet Baiju Bhatt
 
 How did the idea for the company (or project) come about?

@@ -1,7 +1,7 @@
 # RobinHood
 ## Overview and Origin
 
-What is the name of the company?  
+### What is the name of the company?  
 RobinHood (RH)
 
 When was the company incorporated?

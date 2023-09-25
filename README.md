@@ -1,7 +1,6 @@
+# RobinHood
+## Overview and Origin
 
-
-RobinHood Links to an external site.
-Overview and Origin Links to an external site.
 What is the name of the company?
 RobinHood (RH)
 
@@ -9,12 +8,14 @@ When was the company incorporated?
 RH was incorporated in April 2013, the founders are Vladimir Tenet Baiju Bhatt
 
 How did the idea for the company (or project) come about?
+
 The founders had previously built high-frequency trading platforms for financial institutions in NYC. The companies mission is to “provide everyone with access to financial markets, not just the wealthy”. The goal was to develop very simple user interfaces that anyone could use and develop commission free trading as well as no minimum balance.
 
 How is the company funded? How much funding have they received?
+
 The firm showcased its first public mobile application in December 2024. In April 2017, the company raised $110 million, followed by $363 million series D in 2018. In May 2020, RH raised an additional $280 million in venture funding at a pre-money evaluation of $8.3 billion led by Sequoia Capital. The company went public on the Nasdaq in 2021 under the stock ticker HOOD.
 
-Business Activities Links to an external site.
+## Business Activities
 What specific financial problem is the company or project trying to solve?
 The company provides a simple user interface, commissions free trading, and no minimum balance so that the everyday retail customer can invest. They are providing direct and simple access to the market for non-professional traders).
 
@@ -33,7 +34,7 @@ RH data is critical for their business model (i.e. selling order information to 
 
 https://www.integrate.io/blog/how-robinhood-built-their-data-pipeline-with-amazon-redshift/ Links to an external site.
 
-Landscape Links to an external site.
+## Landscape
 What domain of the financial industry is the company in?
 Robinhood Financial LLC (Robinhood), a subsidiary of Robinhood Markets Inc, is a stock brokerage firm, which provides brokerage clearing services. The platform allows buying and selling of US listed companies and exchange traded funds.
 
@@ -49,7 +50,7 @@ Being a completely tech driven company, these brokers can operate with substaint
 What are the other major companies in this domain?
 RH, Webull, Charles Schwab, Fidelity Investments, E*TRADE, TD Ameritrade.
 
-Results Links to an external site.
+## Results
 What has been the business impact of this company so far?
 Overall, the impact of RH has been highly disruptive. The brokerage app gain millions of users in a very short amount of time through democratized investing and created novel channel of wealth generation for the everyday individual investor. However, the paradox is that the every individual investor is “usually” not prepared for investing into the markets.
 
@@ -65,7 +66,7 @@ https://www.globenewswire.com/news-release/2023/09/15/2744138/0/en/Securities-Br
 
 https://www.globenewswire.com/en/news-release/2023/07/05/2699586/0/en/E-Brokerage-Market-to-Reach-31-08-Billion-Globally-by-2032-at-10-6-CAGR-Allied-Market-Research.html Links to an external site.
 
-Recommendations Links to an external site.
+## Recommendations
 If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 I would advise the company to offer more transparency around their practices (i.e. selling of data) and provide better support tools for the average retail investor. Their average customer does not have much experience (millennial) and relative low bank account balance (<$3,000). Services such as roboadvising could be one option to increase monthly subscription revenues (outside of RH gold).
 

@@ -4,18 +4,18 @@
 ### What is the name of the company?  
 RobinHood (RH)
 
-When was the company incorporated?
+### When was the company incorporated?
 RH was incorporated in April 2013, the founders are Vladimir Tenet Baiju Bhatt
 
-How did the idea for the company (or project) come about?
+### How did the idea for the company (or project) come about?
 The founders had previously built high-frequency trading platforms for financial institutions in NYC. The companies mission is to “provide everyone with access to financial markets, not just the wealthy”. The goal was to develop very simple user interfaces that anyone could use and develop commission free trading as well as no minimum balance.
 
-How is the company funded? How much funding have they received?
+### How is the company funded? How much funding have they received?
 The firm showcased its first public mobile application in December 2024. In April 2017, the company raised $110 million, followed by $363 million series D in 2018. In May 2020, RH raised an additional $280 million in venture funding at a pre-money evaluation of $8.3 billion led by Sequoia Capital. The company went public on the Nasdaq in 2021 under the stock ticker HOOD.
 
 ## Business Activities
 
-What specific financial problem is the company or project trying to solve?
+### What specific financial problem is the company or project trying to solve?
 The company provides a simple user interface, commissions free trading, and no minimum balance so that the everyday retail customer can invest. They are providing direct and simple access to the market for non-professional traders).
 Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
